@@ -1,0 +1,51 @@
+.d-flex{
+    margin-right: 40px;
+}
+body{
+    background-image:url(vibrant-art-supplies-showcase-white-background_893571-17872.jpg) ;
+    background-size: cover;
+    
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+.lead{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4rem;
+}
+
+#bio{
+    margin-left: 13%;
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#myCarousel{
+    height: 50vh
+    
+}
+
+@media screen and (max-width: 800px){
+
+    .bi{
+        width: 34px;
+        height: 34px;
+    }
+
+    #button1 , #button2{
+        margin-left: 100px;
+    }
+    div>img{
+        margin-left: 30px;
+    }
+
+   
+}
